@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.outer-wrapper {
+    background-color: #3d9970;
+    padding: 20px;
+}
+
+.inner-wrapper{
+    background-color: whitesmoke;
+    padding: 20px; 
+}
+
+h1 {
+   text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
